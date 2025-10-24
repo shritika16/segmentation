@@ -8,9 +8,9 @@
   5. Attention-based Models < latest one which is used in many VLLM { Pending} >
 
 
-1. Fully Convolution Networks (FCN) --- Paper : **Fully Convolutional Networks for Semantic Segmentation** by Long
+# 1 Fully Convolution Networks (FCN) --- Paper : **Fully Convolutional Networks for Semantic Segmentation** by Long
   Coded here done
   observation - Doesn't work with data which is taken from google image
 
-2. Encode - Decoder Networks < Onging>
+# 2 Encode - Decoder Networks < Onging>
   a) Paper - **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling** by Badrinarayanan
